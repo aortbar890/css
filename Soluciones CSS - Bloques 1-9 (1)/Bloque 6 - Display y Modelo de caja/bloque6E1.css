@@ -1,0 +1,17 @@
+body {
+  color: black;
+  font-family: sans-serif;
+}
+
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+}
+
+.caja-linea {
+  display: inline-block;
+  border: 15px solid indigo;
+}

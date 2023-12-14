@@ -1,0 +1,22 @@
+/* ----------------------------  */
+/* Centramos todas las cabeceras */
+/* ----------------------------  */
+h1, h2 {
+	text-align: center;
+}
+h1 {
+	color: green;
+}
+
+h2 {
+	color: brown;
+}
+p {
+	color: green;
+}
+
+/* Solo centramos y coloreamos de azul los elementos de la clase lorem */
+.lorem {
+	color: blue;
+	text-align: center;
+}

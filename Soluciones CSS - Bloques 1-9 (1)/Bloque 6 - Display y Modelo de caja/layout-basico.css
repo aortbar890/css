@@ -1,0 +1,62 @@
+/**** RESETEO DEL BODY
+body {
+    margin: 0;
+}
+****/
+
+/***** HEADER ******/
+header {
+    background-color: bisque;
+}
+
+.header-left-column {
+    display: inline-block;
+    width: 30%;
+    border: 2px solid blue;
+}
+
+.header-right-column {
+    display: inline-block;
+    width: 69%;
+    border: 2px solid blue;
+    text-align: right;
+}
+
+/***** MAIN ******/
+.main-container {
+    width: 80%;
+    margin: auto;
+    background-color: thistle;
+}
+
+.main-content {
+    display: inline-block;
+    width: 80%;
+    border: 2px solid blue;
+    /*vertical-align: top;*/
+}
+
+.aside {
+    display: inline-block;
+    width: 19%;
+    border: 2px solid blue;
+    /*vertical-align: top;*/
+}
+
+/***** FOOTER ******/
+footer {
+    background-color: bisque;
+}
+
+.footer-left-column {
+    display: inline-block;
+    width: 30%;
+    border: 2px solid blue;
+}
+
+.footer-right-column {
+    display: inline-block;
+    width: 69%;
+    border: 2px solid blue;
+    text-align: right;
+}

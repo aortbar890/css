@@ -1,0 +1,31 @@
+body {
+  color: black;
+  font-family: Roboto;
+}
+
+ul li {
+	list-style-type: none;
+	font-size: 1.5em;
+}
+
+ul li a {
+	text-decoration:none;
+	color: black;
+	opacity: 0.1;
+	transition: font-size 1s, opacity 1s;
+}
+
+/* mouse over link */
+ul li a:hover {
+  font-size: 1.7em;
+  opacity: 1;
+}
+
+.fa-google, .fa-youtube{
+	color: red;
+}
+
+.fa-facebook, .fa-twitter-square {
+	color: blue;
+}
+

@@ -1,0 +1,33 @@
+body {
+	font-family: Roboto, sans-serif;
+	background-color: #7FFF00;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+#principal {
+	font-size: 50px;
+	color: black;
+}
+
+h1 {
+	color: white;
+	font-size: 40px;
+}
+h2 {
+	color: blue;
+	font-size: 20px;
+}
+
+p {
+	color: red;
+	text-align: justify;
+}
+
+.lorem {
+	color: black;
+	font-weight: 700;
+	text-align: center;
+}

@@ -1,0 +1,53 @@
+body {
+  color: black;
+  font-family: sans-serif;
+}
+
+div {
+  padding: 20px;
+  margin: 20px;
+}
+
+.cabecera {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.barra-nav {
+  background-color: gray;
+  color: white;
+  text-align: center;
+}
+
+.barra-nav a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.2em;
+  padding: 20px;
+}
+
+.contenido-ppal {
+  display: inline-block;
+  border: 2px solid black;
+  width: 700px;
+  color: black;
+}
+
+p {
+  text-align: justify;
+}
+
+.contenido-lateral {
+  display: inline-block;
+  border: 2px solid black;
+  background-color: lightgray;
+  color: black;
+  width: 300px;
+}
+
+.pie {
+  background-color: black;
+  color: white;
+  text-align: right;
+}

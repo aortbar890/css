@@ -1,0 +1,58 @@
+* {
+	box-sizing: border-box;
+}
+body {
+  color: black;
+  font-family: sans-serif;
+  width: 80%;
+  margin: 20px auto;
+}
+.cabecera {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  border-radius: 15px;
+}
+.barra-nav {
+  background-color: gray;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  border-radius: 15px;
+}
+.barra-nav a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.2em;
+  padding: 20px;
+}
+
+.lateral {
+  display: inline-block;
+  border: 8px solid lightgray;
+  width: 20%;
+  margin: 22px;
+  padding: 20px 40px;
+  border-radius: 15px;
+  vertical-align: middle;
+}
+.centro {
+  display: inline-block;
+  border: 8px solid lightgray;
+  width: 45%;
+  margin: 20px;
+  padding: 20px 40px 20px 40px;
+  border-radius: 15px;
+  vertical-align: middle;
+}
+p {
+  text-align: justify;
+}
+.pie {
+  background-color: black;
+  color: white;
+  padding: 20px 80px 20px 20px;
+  text-align: right;
+  border-radius: 15px;
+}
